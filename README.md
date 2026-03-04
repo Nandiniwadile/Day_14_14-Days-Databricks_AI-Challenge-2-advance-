@@ -9,7 +9,7 @@ This project demonstrates a complete **Data Engineering + Machine Learning pipel
 
 Below is the high-level architecture of the integrated Data + ML pipeline:
 
-![Architecture Diagram](![Uploading 999489fc-8c4a-4037-af29-ac2f093bf1bc.png…]
+![Architecture Diagram](99489fc-8c4a-4037-af29-ac2f093bf1bc.png]
 )
 
 ### 🔄 Pipeline Flow
